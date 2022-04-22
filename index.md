@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Asesmen 2](https://github.com/shellyanat/shellyanat.github.io/blob/main/Asesmen%20Topic%202.ipynb)
+- [Asesmen 2](shellyanat.github.io/Asesmen Topic 2.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
