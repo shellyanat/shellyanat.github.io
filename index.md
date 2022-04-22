@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Asesmen 2](https://shellyanat.github.io/AsesmenTopic2.ipynb)
-- [Project 2 Title](http://example.com/)
+- [Asesmen 2 (Download IPYNB)](https://shellyanat.github.io/AsesmenTopic2.ipynb)
+- [Asesmen 2 (HTML)](https://shellyanat.github.io/AsesmenTopic2.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
