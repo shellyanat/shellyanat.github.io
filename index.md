@@ -4,7 +4,7 @@
 
 ### Materi Data Zenius
 
-[1 -Introduction to Data Sceince](/pdf/1_Introduction_to_Data_Science.pdf)
+[1 - Introduction to Data Sceince](/pdf/1_Introduction_to_Data_Science.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
