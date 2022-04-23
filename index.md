@@ -5,10 +5,12 @@
 ### Materi Data Zenius
 
 [1 -Introduction to Data Sceince](/pdf/1_Introduction_to_Data_Science.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [2 - Getting Started to Data Science ](/pdf/2_Getting_Started_to_Data_Science.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
