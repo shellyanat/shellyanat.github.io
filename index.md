@@ -19,7 +19,7 @@
 
 - [Asesmen 1 (HTML)](https://shellyanat.github.io/Asesmen1.html)
 - [Asesmen 2 (Download IPYNB)](https://shellyanat.github.io/AsesmenTopic2.ipynb)
-- [Asesmen 2 (HTML)](https://shellyanat.github.io/AsesmenTopic2.html)
+- 
 
 ---
 
