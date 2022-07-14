@@ -1,25 +1,47 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Materi Data Zenius
-
-[1 - Introduction to Data Sceince](/pdf/1_Introduction_to_Data_Science.pdf)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Program Zenius Studi Independen Bersertifikat (MBKM)
+Data Warehousing, Analysis, and Visualization for Business Insights
 
 ---
-[2 - Getting Started to Data Science ](/pdf/2_Getting_Started_to_Data_Science.pdf)
+## Fundamental Skills Essay
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+1. Penalaran dan Pemahaman Bacaan
+[Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
+Score: 65/100
+Average Score: 20.8/100
+
+---
+2. Filsafat Dasar
+[Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
+Score: 87/100
+Average Score: 85.31/100
+
+[Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
+Score: 98.25/100
+Average Score: 85.6/100
+
+---
+3. Evolusi Manusia
+[Evolusi Manusia](/fundamental/EvolusiManusia.pdf)
+Score: 92/100
+Average Score: 77.2/100
+
 
 ---
 
-### Asesmen Data
+## Specific Skills (Data Analysis)
 
-- [Asesmen 1 (HTML)](https://shellyanat.github.io/Asesmen1.html)
-- [Asesmen 2 (Download IPYNB)](https://shellyanat.github.io/AsesmenTopic2.ipynb)
-- 
+### Basic
+- [Assignment 1 - Dynamic Pricing](/tugas/Asesmen I - Dynamic Pricing.pdf)
+- [Assignment 6 - Introduction to Data Preprocessing]([(https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)])
+- [Assignment 7 - Introduction to Data Visualization](/tugas/7-DV.pdf)
+- [Assignment 9 - Introduction to Statistics]([https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing])
+### 
+- [Assignment 13 - House Price Model]([https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing])
+- [Assignment 16 - SQL](/tugas/16-SQL.pdf)
 
 ---
 
