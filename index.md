@@ -10,24 +10,24 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 #### 1. Penalaran dan Pemahaman Bacaan
 ##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
-##### Score: 65/100
-##### Average Score: 20.8/100
+- Score: 65/100
+- Average Score: 20.8/100
 
 ---
 #### 2. Filsafat Dasar
 ##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
-##### Score: 87/100
-##### Average Score: 85.31/100
+- Score: 87/100
+- Average Score: 85.31/100
 
 ##### [Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
-##### Score: 98.25/100
-##### Average Score: 85.6/100
+- Score: 98.25/100
+- Average Score: 85.6/100
 
 ---
 #### 3. Evolusi Manusia
 ##### [Evolusi Manusia](/fundamental/EvolusiManusia.pdf)
-##### Score: 92/100
-##### Average Score: 77.2/100
+- Score: 92/100
+- Average Score: 77.2/100
 
 
 ---
