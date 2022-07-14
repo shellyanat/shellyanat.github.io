@@ -39,10 +39,10 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 - [Assignment 6 - Introduction to Data Preprocessing](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
 - [Assignment 7 - Introduction to Data Visualization](/tugas/7-DV.pdf)
 - [Assignment 9 - Introduction to Statistics](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
-### 
+### Intermediate
 - [Assignment 13 - House Price Model](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
 - [Assignment 16 - SQL](/tugas/16-SQL.pdf)
-
+##### for IPYNB file please open with Google Colaboratory
 ---
 
 
