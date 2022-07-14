@@ -34,7 +34,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 ## Specific Skills (Data Analysis)
 
-### Basic
+### Beginner
 - [Assignment 1 - Dynamic Pricing](/tugas/Asesmen I - Dynamic Pricing.pdf)
 - [Assignment 6 - Introduction to Data Preprocessing](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
 - [Assignment 7 - Introduction to Data Visualization](/tugas/7-DV.pdf)
@@ -42,9 +42,17 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 ### Intermediate
 - [Assignment 13 - House Price Model](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
 - [Assignment 16 - SQL](/tugas/16-SQL.pdf)
+- [Final Project](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
 ##### for IPYNB file please open with Google Colaboratory
 ---
 
+# College Project
+
+### Final Project Kriptografi
+#### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Difie-Hellman
+- [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
+- [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
+- [Excel](https://docs.google.com/spreadsheets/d/1W6SY8u5yhsTy0QPGemqtvYQcbKTUhQ2-/edit?usp=sharing&ouid=110868733058254967789&rtpof=true&sd=true)
 
 
 
