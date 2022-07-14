@@ -3,33 +3,19 @@
 ---
 ---
 
+# College Project
+
+### Final Project Kriptografi
+#### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Difie-Hellman
+- [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
+- [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
+- [Excel](https://docs.google.com/spreadsheets/d/1W6SY8u5yhsTy0QPGemqtvYQcbKTUhQ2-/edit?usp=sharing&ouid=110868733058254967789&rtpof=true&sd=true)
+
+---
+---
+
 # Program Zenius Studi Independen Bersertifikat (MBKM)
 Data Warehousing, Analysis, and Visualization for Business Insights
-
----
-## Fundamental Skills Essay
-
-#### 1. Penalaran dan Pemahaman Bacaan
-##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
-- Score: 65/100
-- Average Score: 20.8/100
-
----
-#### 2. Filsafat Dasar
-##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
-- Score: 87/100
-- Average Score: 85.31/100
-
-##### [Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
-- Score: 98.25/100
-- Average Score: 85.6/100
-
----
-#### 3. Evolusi Manusia
-##### [Evolusi Manusia](/fundamental/EvolusiManusia.pdf)
-- Score: 92/100
-- Average Score: 77.2/100
-
 
 ---
 
@@ -49,15 +35,26 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 ##### for IPYNB file please open with Google Colaboratory
 
 ---
----
+## Fundamental Skills Essay
 
-# College Project
+#### 1. Penalaran dan Pemahaman Bacaan
+##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
+- Score: 65/100
+- Average Score: 20.8/100
 
-### Final Project Kriptografi
-#### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Difie-Hellman
-- [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
-- [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
-- [Excel](https://docs.google.com/spreadsheets/d/1W6SY8u5yhsTy0QPGemqtvYQcbKTUhQ2-/edit?usp=sharing&ouid=110868733058254967789&rtpof=true&sd=true)
+#### 2. Filsafat Dasar
+##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
+- Score: 87/100
+- Average Score: 85.31/100
+
+##### [Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
+- Score: 98.25/100
+- Average Score: 85.6/100
+
+#### 3. Evolusi Manusia
+##### [Evolusi Manusia](/fundamental/EvolusiManusia.pdf)
+- Score: 92/100
+- Average Score: 77.2/100
 
 
 
