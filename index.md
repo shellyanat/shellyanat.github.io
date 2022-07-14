@@ -1,6 +1,7 @@
 # Portfolio
 
-======
+---
+---
 
 # Program Zenius Studi Independen Bersertifikat (MBKM)
 Data Warehousing, Analysis, and Visualization for Business Insights
@@ -47,7 +48,8 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 ##### for IPYNB file please open with Google Colaboratory
 
-===
+---
+---
 
 # College Project
 
@@ -59,6 +61,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 
 
-===
+---
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
