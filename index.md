@@ -1,3 +1,6 @@
+# [Curriculum Vitae](/pdf/CVSNA.pdf)
+
+---
 # Portfolio
 
 ---
@@ -43,8 +46,15 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 <img src="images/PZSIB-1.png"/>
 
+---
+---
+# TETRIS 
+Belajar Data Science Program by DQLab
 
+---
+- [Case Study SQL (PDF)](/tugas/SQLTetris.pdf)
 
+---
 ---
 # Writing
 
@@ -60,6 +70,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 ##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
 - Score: 87/100
 - Average Score: 85.31/100
+
 ##### [Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
 - Score: 98.25/100
 - Average Score: 85.6/100
