@@ -1,4 +1,5 @@
-# [Curriculum Vitae](/pdf/CVSNA.pdf)
+# Curriculum Vitae
+[CV Shellya Nur Atqiya](/pdf/CVSNA.pdf)
 
 ---
 # Portfolio
