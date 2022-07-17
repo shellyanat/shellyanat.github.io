@@ -33,12 +33,17 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 #### Final Project - Fraud Detection
 - [Google Colaboratory](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
-<img src="images/PZSIB.png"/>
+- [Dashboard (PDF)](/tugas/Final_Project_Shel.pdf)
+- [Dashboard (Google Data Studio)](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
+<img src="images/PZSIB-1.png"/>
 
 ##### for IPYNB file please open with Google Colaboratory
 
 ---
-## Fundamental Skills Essay
+# Writing
+
+
+## Fundamental Skills Program Zenius Studi Independen Bersertifikat
 
 #### 1. Penalaran dan Pemahaman Bacaan
 ##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
