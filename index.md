@@ -55,6 +55,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 ##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
 - Score: 65/100
 - Average Score: 20.8/100
+
 #### 2. Filsafat Dasar
 ##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
 - Score: 87/100
@@ -68,7 +69,8 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 - Score: 92/100
 - Average Score: 77.2/100
 
-
+## Creative Writing
+[News, Movie Recommendation, Personal](/pdf/Writer_Shel.pdf)
 
 ---
 ---
