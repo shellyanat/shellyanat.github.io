@@ -10,6 +10,10 @@
 - [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
 - [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
 - [Excel](https://docs.google.com/spreadsheets/d/1W6SY8u5yhsTy0QPGemqtvYQcbKTUhQ2-/edit?usp=sharing&ouid=110868733058254967789&rtpof=true&sd=true)
+
+- Score: 96/100
+- Average Score: 93.3/100
+
 <img src="images/Kripto.png"/>
 
 
@@ -36,6 +40,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 - [Google Colaboratory](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
 - [Dashboard (PDF)](/tugas/Final_Project_Shel.pdf)
 - [Dashboard (Google Data Studio)](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
+
 <img src="images/PZSIB-1.png"/>
 
 
@@ -50,12 +55,10 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 ##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
 - Score: 65/100
 - Average Score: 20.8/100
-
 #### 2. Filsafat Dasar
 ##### [Cabang Filsafat](/fundamental/CabangFilsafat.pdf)
 - Score: 87/100
 - Average Score: 85.31/100
-
 ##### [Sejarah Filsafat](/fundamental/SejarahFilsafat.pdf)
 - Score: 98.25/100
 - Average Score: 85.6/100
