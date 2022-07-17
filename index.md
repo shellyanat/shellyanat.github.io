@@ -23,16 +23,17 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 
 ## Specific Skills (Data Analysis)
 
-- [Assignment 1 - Dynamic Pricing](/tugas/Asesmen I - Dynamic Pricing.pdf)
-- [Assignment 6 - Introduction to Data Preprocessing](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
-- [Assignment 7 - Introduction to Data Visualization](/tugas/7-DV.pdf)
-- [Assignment 9 - Introduction to Statistics](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
-- [Assignment 13 - House Price Model](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
-- [Assignment 16 - SQL](/tugas/16-SQL.pdf)
+- [Assignment 1 - Dynamic Pricing (PDF)](/tugas/Asesmen I - Dynamic Pricing.pdf)
+- [Assignment 5 - Data Cleansing (PDF)](/tugas/AsesmenTopic5PPT.pdf)
+- [Assignment 6 - Introduction to Data Preprocessing (IPYNB)](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
+- [Assignment 7 - Introduction to Data Visualization (PDF)](/tugas/7-DV.pdf)
+- [Assignment 9 - Introduction to Statistics (IPYNB)](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
+- [Assignment 13 - House Price Model (IPYNB)](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
+- [Assignment 16 - SQL (PDF)](/tugas/16-SQL.pdf)
 
 #### Final Project - Fraud Detection
 - [Google Colaboratory](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
-images/PZSIB.png
+<img src="images/PZSIB.png"/>
 
 ##### for IPYNB file please open with Google Colaboratory
 
