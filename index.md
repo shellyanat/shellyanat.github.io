@@ -30,6 +30,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 - [Assignment 9 - Introduction to Statistics (IPYNB)](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
 - [Assignment 13 - House Price Model (IPYNB)](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
 - [Assignment 16 - SQL (PDF)](/tugas/16-SQL.pdf)
+##### for IPYNB file please open with Google Colaboratory
 
 #### Final Project - Fraud Detection
 - [Google Colaboratory](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
@@ -37,7 +38,7 @@ Data Warehousing, Analysis, and Visualization for Business Insights
 - [Dashboard (Google Data Studio)](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
 <img src="images/PZSIB-1.png"/>
 
-##### for IPYNB file please open with Google Colaboratory
+
 
 ---
 # Writing
