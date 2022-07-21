@@ -11,7 +11,7 @@
 
 # College Project
 
-### Final Project Kriptografi
+### Kriptografi Final Project 
 #### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Difie-Hellman
 - [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
 - [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
