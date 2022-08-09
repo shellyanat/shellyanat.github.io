@@ -56,6 +56,8 @@ Belajar Data Science Program by DQLab
 
 ---
 - [Case Study SQL (PDF)](/tugas/SQLTetris.pdf)
+- [Final Project: Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
+- <img src="images/TetrisFP.png"/>
 
 ---
 ---
