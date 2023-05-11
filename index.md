@@ -82,9 +82,6 @@ Belajar Data Science Program by DQLab
 - Score: 92/100
 - Average Score: 77.2/100
 
-## Creative Writing
-[News, Movie Recommendation, Personal](/pdf/Writer_Shel.pdf)
-
 ---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
