@@ -8,10 +8,12 @@
 
 ### >  [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
   The primary objective of this project was to gain valuable insights into the efficiency and cost optimization strategies employed by different shipping companies. By visualizing key performance indicators (KPIs) and trends, the dashboard offers a comprehensive understanding of the shipping industry's dynamics during a specific timeframe.
+
   <img src="images/SCE.jpeg">
   
 ### > [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
   In June 2022, 30 Korean Artists took on the role of Brand Ambassadors for various Indonesian businesses. This project delves into Google trends to analyze the correlation between their influence and brand awareness with the help of marketing strategies. 
+
   <img src="images/TetrisFP.png"/>
   
   
