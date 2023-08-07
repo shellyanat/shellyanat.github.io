@@ -8,7 +8,7 @@
 
 # Data Analyst
 #### [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
-  <img src="images/SCE.jpg">
+  <img src="images/SCE.jpeg">
   
 #### [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
   <img src="images/TetrisFP.png"/>
