@@ -6,7 +6,15 @@
 ---
 ---
 
-# College Project
+# Data Analyst
+#### [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
+  <img src="images/SCE.jpg">
+  
+#### [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
+  <img src="images/TetrisFP.png"/>
+  
+#### [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
+  
 
 ### Kriptografi 
 #### Implementasi Kriptografi dalam Pengamanan Data pada File Excel dengan Diffie-Hellman-RSA
