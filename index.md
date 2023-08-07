@@ -1,12 +1,11 @@
-# Shellya Nur Atqiya
+# Shellya Nur Atqiya's Portfolio
 
-
-# Portfolio
 
 ---
 ---
 
-# Data Analyst
+# Data Science and Analytics
+
 #### [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
   <img src="images/SCE.jpeg">
   
@@ -15,10 +14,29 @@
   
 #### [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
   
+#### [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
+  <img src="images/PZSIB-1.png"/>
 
-### Kriptografi 
-#### Implementasi Kriptografi dalam Pengamanan Data pada File Excel dengan Diffie-Hellman-RSA
-- [Program](https://shellya-kriptografi-excel.streamlit.app/)
+#### Courses Assignment
+
+##### Program Zenius Studi Independen Bersertifikat (MBKM)
+- [Assignment 1 - Dynamic Pricing (PDF)](/tugas/Asesmen I - Dynamic Pricing.pdf)
+- [Assignment 5 - Data Cleansing (PDF)](/tugas/AsesmenTopic5PPT.pdf)
+- [Assignment 6 - Introduction to Data Preprocessing (IPYNB)](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
+- [Assignment 7 - Introduction to Data Visualization (PDF)](/tugas/7-DV.pdf)
+- [Assignment 9 - Introduction to Statistics (IPYNB)](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
+- [Assignment 13 - House Price Model (IPYNB)](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
+- [Assignment 16 - SQL (PDF)](/tugas/16-SQL.pdf)
+####### for IPYNB file please open with Google Colaboratory
+
+##### Tetris (Data Analyst Fast Track Program by DQLab)
+- [Case Study SQL (PDF)](/tugas/SQLTetris.pdf)
+
+---
+---
+
+# Kriptografi 
+#### [Implementasi Kriptografi dalam Pengamanan Data pada File Excel dengan Diffie-Hellman-RSA](https://shellya-kriptografi-excel.streamlit.app/)
 <img src="images/excel-dhrsa.jpg"/>
 
 #### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Diffie-Hellman
@@ -31,42 +49,6 @@
 
 <img src="images/Kripto.png"/>
 
-
----
----
-
-# Program Zenius Studi Independen Bersertifikat (MBKM)
-Data Warehousing, Analysis, and Visualization for Business Insights
-
----
-
-## Specific Skills (Data Analysis)
-
-- [Assignment 1 - Dynamic Pricing (PDF)](/tugas/Asesmen I - Dynamic Pricing.pdf)
-- [Assignment 5 - Data Cleansing (PDF)](/tugas/AsesmenTopic5PPT.pdf)
-- [Assignment 6 - Introduction to Data Preprocessing (IPYNB)](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
-- [Assignment 7 - Introduction to Data Visualization (PDF)](/tugas/7-DV.pdf)
-- [Assignment 9 - Introduction to Statistics (IPYNB)](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
-- [Assignment 13 - House Price Model (IPYNB)](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
-- [Assignment 16 - SQL (PDF)](/tugas/16-SQL.pdf)
-##### for IPYNB file please open with Google Colaboratory
-
-#### Final Project - Fraud Detection
-- [Google Colaboratory](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
-- [Dashboard (PDF)](/tugas/Final_Project_Shel.pdf)
-- [Dashboard (Google Data Studio)](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
-
-<img src="images/PZSIB-1.png"/>
-
----
----
-# TETRIS 
-Belajar Data Science Program by DQLab
-
----
-- [Case Study SQL (PDF)](/tugas/SQLTetris.pdf)
-- [Final Project: Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
-  <img src="images/TetrisFP.png"/>
 
 ---
 ---
