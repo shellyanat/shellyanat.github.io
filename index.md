@@ -7,14 +7,19 @@
 ## Data Science and Analytics
 
 ### >  [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
+  The primary objective of this project was to gain valuable insights into the efficiency and cost optimization strategies employed by different shipping companies. By visualizing key performance indicators (KPIs) and trends, the dashboard offers a comprehensive understanding of the shipping industry's dynamics during a specific timeframe.
   <img src="images/SCE.jpeg">
   
 ### > [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
+  In June 2022, 30 Korean Artists took on the role of Brand Ambassadors for various Indonesian businesses. This project delves into Google trends to analyze the correlation between their influence and brand awareness with the help of marketing strategies. 
   <img src="images/TetrisFP.png"/>
+  
   
 ### > [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
   
 ### > [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/12Y1byfM0kJzw-_G8Jbux5ZGvYVltJwl7?usp=sharing)
+  Fraud Detection is the final project of the study path "Data Warehousing, Analysis, and Visualization for Business Insights" from the Merdeka Campus Program by Zenius. Students need to create visualizations based on multiple questions and utilize machine learning techniques to find the key variables that impact fraud detection in transactions.
+  
   <img src="images/PZSIB-1.png"/>
 
 ### > Courses Assignment
