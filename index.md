@@ -14,7 +14,7 @@
   
 ### > [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
   
-### > [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
+### > [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/12Y1byfM0kJzw-_G8Jbux5ZGvYVltJwl7?usp=sharing)
   <img src="images/PZSIB-1.png"/>
 
 ### > Courses Assignment
