@@ -6,20 +6,20 @@
 
 # Data Science and Analytics
 
-#### [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
+## >  [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
   <img src="images/SCE.jpeg">
   
-#### [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
+## > [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
   <img src="images/TetrisFP.png"/>
   
-#### [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
+## > [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
   
-#### [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
+## > [Google Colaboratory - Final Project PZSIB : Fraud Detection](https://colab.research.google.com/drive/1xHWIGOgDqfsyZRNIWkoNeq5NEsy6XCFD?usp=sharing)
   <img src="images/PZSIB-1.png"/>
 
-#### Courses Assignment
+## Courses Assignment
 
-##### Program Zenius Studi Independen Bersertifikat (MBKM)
+#### Program Zenius Studi Independen Bersertifikat (MBKM)
 - [Assignment 1 - Dynamic Pricing (PDF)](/tugas/Asesmen I - Dynamic Pricing.pdf)
 - [Assignment 5 - Data Cleansing (PDF)](/tugas/AsesmenTopic5PPT.pdf)
 - [Assignment 6 - Introduction to Data Preprocessing (IPYNB)](https://drive.google.com/file/d/1-b8TGfFM0VK-Q3SBX164OZ4NuVBmaJSX/view?usp=sharing)
@@ -27,19 +27,19 @@
 - [Assignment 9 - Introduction to Statistics (IPYNB)](https://drive.google.com/file/d/12vWWsCnidbYn51239g8uqACYYGR-p7PG/view?usp=sharing)
 - [Assignment 13 - House Price Model (IPYNB)](https://colab.research.google.com/drive/1FTRPYbKXzVY3ApbhRbVYb_EcruzA3zbX?usp=sharing)
 - [Assignment 16 - SQL (PDF)](/tugas/16-SQL.pdf)
-####### for IPYNB file please open with Google Colaboratory
+###### for IPYNB file please open with Google Colaboratory
 
-##### Tetris (Data Analyst Fast Track Program by DQLab)
+#### Tetris (Data Analyst Fast Track Program by DQLab)
 - [Case Study SQL (PDF)](/tugas/SQLTetris.pdf)
 
 ---
 ---
 
 # Kriptografi 
-#### [Implementasi Kriptografi dalam Pengamanan Data pada File Excel dengan Diffie-Hellman-RSA](https://shellya-kriptografi-excel.streamlit.app/)
+## [Implementasi Kriptografi dalam Pengamanan Data pada File Excel dengan Diffie-Hellman-RSA](https://shellya-kriptografi-excel.streamlit.app/)
 <img src="images/excel-dhrsa.jpg"/>
 
-#### Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Diffie-Hellman
+## Penyandian Pesan Autokey Cipher Menggunakan Pertukaran Kunci Diffie-Hellman
 - [Python](https://drive.google.com/file/d/1oGeeAur8dfvzMr4ruQsNa5kVv-P7rW-q/view?usp=sharing)
 - [Download Python](/kuliah/Diffie Hellman Autokey Cipher.py)
 - [Excel](https://docs.google.com/spreadsheets/d/1W6SY8u5yhsTy0QPGemqtvYQcbKTUhQ2-/edit?usp=sharing&ouid=110868733058254967789&rtpof=true&sd=true)
@@ -55,7 +55,7 @@
 # Writing
 
 
-## Fundamental Skills Program Zenius Studi Independen Bersertifikat
+## Fundamental Skills Program Zenius Studi Independen Bersertifikat (MBKM)
 
 #### 1. Penalaran dan Pemahaman Bacaan
 ##### [Usaha Tidak Akan (Benar-benar) Mengkhianati Hasil](/fundamental/EsaiPemahamanBacaan.pdf)
