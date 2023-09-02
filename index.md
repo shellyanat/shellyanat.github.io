@@ -6,12 +6,15 @@
 
 ## Data Science and Analytics
 
-### > [Looker - SuperStore Sales Overview](https://docs.google.com/spreadsheets/d/17ROx197Hn6dBLs0wpRpprwfGK2VkLrK0bUHcvgMtiU4/edit?usp=sharing)
+### > [Looker - Superstore Sales Overview](https://lookerstudio.google.com/reporting/1f0c494a-da99-42c0-adfd-03577a4501ee)
+  The dashboard serves as a tool for assessing product sales performance through the visualization of relevant data. Its primary purpose is to provide decision-makers and stakeholders with a clear and intuitive representation of key sales metrics and trends. In a professional context, this dashboard enables a streamlined and data-driven approach to evaluate product sales within the superstore. 
 
+  <img src="images/Superstore.jpeg"/>
+  
 ### >  [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
   The primary objective of this project was to gain valuable insights into the efficiency and cost optimization strategies employed by different shipping companies. By visualizing key performance indicators (KPIs) and trends, the dashboard offers a comprehensive understanding of the shipping industry's dynamics during a specific timeframe.
 
-  <img src="images/SCE.jpeg">
+  <img src="images/SCE.jpeg"/>
   
 ### > [Streamlit - Final Project Tetris : Artis Korea sebagai Duta Merek Brand Lokal](https://shellyanat-ba-korea-finalproject-b40wja.streamlitapp.com/)
   In June 2022, 30 Korean Artists took on the role of Brand Ambassadors for various Indonesian businesses. This project delves into Google trends to analyze the correlation between their influence and brand awareness with the help of marketing strategies. 
@@ -26,10 +29,10 @@
   
   <img src="images/PZSIB-1.png"/>
 
-### > [Spreadsheet - College Project : Validity and Reliability of the Research Instrument](https://docs.google.com/spreadsheets/d/17ROx197Hn6dBLs0wpRpprwfGK2VkLrK0bUHcvgMtiU4/edit?usp=sharing)
-  
+### > [Spreadsheet - College Project : Validity and Reliability in Classroom Assesment](https://docs.google.com/spreadsheets/d/17ROx197Hn6dBLs0wpRpprwfGK2VkLrK0bUHcvgMtiU4/edit?usp=sharing)
+  In the field of classroom assessment instruments and educational research, the concepts of validity and reliability are very important. These two aspects are the basis for ensuring that the assessment used to measure student learning outcomes is a strong and credible assessment, thereby increasing the credibility of research findings. These spreadsheets are designed as templates to facilitate a structured assessment process, allowing educators and researchers to efficiently evaluate the validity and reliability of their assessments.
 
-
+  <img src ="images/uji-instrumen.jpg"/>
 
 ### > Courses Assignment
 
