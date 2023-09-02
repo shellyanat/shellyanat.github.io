@@ -6,6 +6,8 @@
 
 ## Data Science and Analytics
 
+### > [Looker - SuperStore Sales Overview](https://docs.google.com/spreadsheets/d/17ROx197Hn6dBLs0wpRpprwfGK2VkLrK0bUHcvgMtiU4/edit?usp=sharing)
+
 ### >  [Tableau - Shipping Company Evaluation](https://public.tableau.com/app/profile/shellya.nur.atqiya/viz/ShippingDashboard_16912405398230/Dashboard1)
   The primary objective of this project was to gain valuable insights into the efficiency and cost optimization strategies employed by different shipping companies. By visualizing key performance indicators (KPIs) and trends, the dashboard offers a comprehensive understanding of the shipping industry's dynamics during a specific timeframe.
 
@@ -23,6 +25,11 @@
   Fraud Detection is the final project of the study path "Data Warehousing, Analysis, and Visualization for Business Insights" from the Merdeka Campus Program by Zenius. Students need to create visualizations based on multiple questions and utilize machine learning techniques to find the key variables that impact fraud detection in transactions.
   
   <img src="images/PZSIB-1.png"/>
+
+### > [Spreadsheet - College Project : Validity and Reliability of the Research Instrument](https://docs.google.com/spreadsheets/d/17ROx197Hn6dBLs0wpRpprwfGK2VkLrK0bUHcvgMtiU4/edit?usp=sharing)
+  
+
+
 
 ### > Courses Assignment
 
