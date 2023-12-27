@@ -20,7 +20,10 @@
   In June 2022, 30 Korean Artists took on the role of Brand Ambassadors for various Indonesian businesses. This project delves into Google trends to analyze the correlation between their influence and brand awareness with the help of marketing strategies. 
 
   <img src="images/TetrisFP.png"/>
+
+### > [Power Point - Final Project PZSIB : Fraud Detection](https://www.canva.com/design/DAF3iuie0Js/oBfOfZLBKVpikQNLXtj-2Q/view?utm_content=DAF3iuie0Js&utm_campaign=designshare&utm_medium=link&utm_source=editor)
   
+  <img src="images/ppt fd.png"/>
   
 ### > [Looker - Final Project PZSIB : Fraud Detection](https://datastudio.google.com/reporting/da17ce10-3aea-4c78-adad-c3c3d8268698) 
   
